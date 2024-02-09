@@ -1,0 +1,296 @@
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.logo{
+	font-family:Britannic Bold;
+	font-size: 30px;
+	color: purple;
+}
+
+.mymenus:hover{
+	text-decoration:underline 2px solid pink;
+	color: royalblue;
+}
+.mymenus{
+	font-weight: bolder;
+	color: black;
+	display: fzz;
+}
+
+.navbar{
+
+/*background-color: lightpink;*/
+
+}
+
+
+.all{
+background-color: papayawhip;
+position: relative;
+width: 100%;
+
+}
+.sections{
+width: 100vw;
+height: 100vh;
+/*padding: 80px;*/
+
+}
+
+.info-home{
+
+font-size: 30px;
+font-family: Elephant;
+
+}
+
+
+.logo-myname{
+
+font-size: 40px;
+font-family: Elephant;
+color: purple;
+
+}
+
+.fsjd{
+
+
+font-family: Elephant;
+font-size: 30px;
+color: orangered;
+
+}
+.page-head{
+
+font-family: Elephant;
+text-align: center;
+/*padding: 20px;*/
+letter-spacing: 3px;
+color: orangered;
+
+
+}
+
+
+
+/*home section*/
+.home-info{
+
+padding: 150px;
+text-align: center;
+
+
+}
+
+.home-img{
+	margin-top: 140px;
+	padding: 30px;
+}
+
+.home-section{
+
+	background-color: papayawhip;
+display: flex;
+
+}
+
+
+/*about section starts*/
+
+.about-info{
+/*border-color: red;*/
+/*border-style: solid;*/
+height: 87%;
+display: flex;
+
+
+}
+
+.myabout{
+
+/*border-color: green;*/
+/*border-style: solid;*/
+width: 60%;
+margin-left: auto;
+margin-right: 50px;
+line-height: 25px;
+margin-top: 30px;
+text-align: justify;
+text-indent: 50px;
+font-family: Elephant;
+letter-spacing: 2px;
+
+
+
+}
+
+.myphoto{
+
+/*border-color: yellow;*/
+/*border-style: solid;*/
+width: 50%;
+
+}
+
+.myphoto img{
+
+height: 350px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 50%;
+
+}
+
+/*.about-info{
+
+
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+line-height: 25px;
+margin-top: 30px;
+text-align: center;
+text-indent: 50px;
+
+
+}
+
+.myphoto{
+
+border-color: yellow;
+border-style: solid;
+
+
+}
+
+.myphoto img{
+
+height: 350px;
+display: black;
+margin-left: auto;
+margin-right: auto;
+border-radius: 50%;
+
+
+
+}
+.myabout{
+
+/*background-color: green;*/
+/*border-style: solid;*/
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+line-height: 25px;
+margin-top: 30px;
+text-align: justify;
+text-indent: 50px;
+
+
+}*/
+/*skill section starts*/
+
+.skills-section{
+	height: 580px;
+	border: none;
+	padding: 20px;
+}
+
+.rows td{
+	padding: 10px;
+}
+
+.tbl{
+	margin-top: 50px;
+}
+
+.skill-head{
+	font-size: 25px;
+	margin-bottom: 30px;
+	font-family: Arial Black;
+	color: orangered;
+	font-variant: small-caps;
+	text-decoration: underline 3px solid orangered;
+}
+
+.skillset{
+	font-weight: bolder;
+	font-family: sans-serif;
+}
+
+#skl{
+
+font-family: Elephant;
+	font-size:30px;
+	color: orangered;
+}
+
+.rows td div{
+	
+	height: 200px;
+	border-radius: 20px;
+}
+
+.rows td div:hover{
+	box-shadow: 0px 0px 10px grey;
+}
+
+/*skill section ends*/
+
+
+.project-section{
+	padding: 20px;
+	border: none;
+}
+
+
+.all-projects{
+	margin-top: 40px;
+}
+
+.card-title{
+	color: navy;
+font-weight: thin;
+	font-family: Elephant;
+}
+
+.card-img-top{
+	height: 150px;
+	width: 150px;
+	border-radius: 5px;
+}
+
+.project-section{
+	height: 1200px;
+}
+
+
+.inputEmail4{
+
+width: 50px;
+
+}
+
+.form-row{
+
+	height: 100px;
+	width: 600px;
+}
+.form-group{
+	width: 600px;
+
+
+}
+#cnt{
+width: 600px;
+
+}
